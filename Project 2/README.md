@@ -1,7 +1,6 @@
 # GO CHASE IT!
 Project 2 of Udacity Robotics Software Engineer Nanodegree Program
-![video](https://github.com/adamalavi/
-Robot-Software-Engineering-Udacity-ND/blob/master/Project2/videos/Project2%20-Go%20chase%20it!.gif)  
+![video](https://github.com/adamalavi/Robot-Software-Engineering-Udacity-ND/blob/master/Project%202/videos/Project2%20-Go%20chase%20it!.gif)  
 
 ## Overview  
 In this project you'll create two ROS packages inside your `catkin_ws/src`: the `drive_bot` and the `ball_chaser` which will be used in Gazebo. Here are the steps to design the robot, house it inside your world, and program it to chase white-colored balls:  
