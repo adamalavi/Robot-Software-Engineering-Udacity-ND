@@ -1,7 +1,7 @@
 # BUILD MY WORLD
-![image](https://github.com/adamalavi/Robotics-software-development-Udacity_ND/blob/master/Project1/Screenshots/World.PNG)
+![image](https://github.com/adamalavi/Robot-Software-Engineering-Udacity-ND/blob/master/Project%201/screenshots/World.PNG)
 ### Overview  
-In this project you'll create your simulation world in Gazebo for all your upcoming projects in the [Udacity Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209).  
+In this project you'll create your simulation world in Gazebo for all your upcoming projects in the nanodegree.  
 1. Build a single floor wall structure using the **Building Editor** tool in Gazebo. Apply at least one feature, one color, and optionally one texture to your structure. Make sure there's enough space between the walls for a robot to navigate.  
 2. Model any object of your choice using the **Model Editor** tool in Gazebo. Your model links should be connected with joints.  
 3. Import your structure and two instances of your model inside an empty **Gazebo World**.  
