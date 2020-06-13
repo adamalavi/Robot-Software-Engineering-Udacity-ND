@@ -1,6 +1,6 @@
 # HOME SERVICE ROBOT
 Project 5 of Udacity Robotics Software Engineer Nanodegree
-![video](https://github.com/adamalavi/Robotics-software-development-Udacity_ND/blob/master/Project5/videos/Project%205-Home%20service%20robot.gif)  
+![video](https://github.com/adamalavi/Robot-Software-Engineering-Udacity-ND/blob/master/Project%205/videos/Project%205-Home%20service%20robot.gif)  
 
 ## Overview  
 In this project, you will use everything you learned in the Nanodegree Program to build a Home Service Robot in ROS.  
